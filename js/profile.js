@@ -1,7 +1,7 @@
 
 
 github_data={
-    token:"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"
+    token:"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"
 }
 username=localStorage.getItem("username")
 
